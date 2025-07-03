@@ -2,3 +2,14 @@
 .Rhistory
 .RData
 .Ruserdata
+# Data sources
+*.xls
+*.xlsx
+ 
+# Documents
+*.doc
+*.docx
+ 
+# Other folders
+docs/
+data/
